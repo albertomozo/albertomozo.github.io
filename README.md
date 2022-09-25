@@ -6,12 +6,20 @@ Esta realizada con el lenguahe de marcas  **markdowm** https://es.wikipedia.org/
 
 El espacio que sumnistra Github lo voy a usar como un repositorio de images para incluir en los README.me de mis proyecto 
 
+Por ejemplo
 
+![issue tab](https://albertomozo.github.io/images/admin_01.PNG)
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+Los pérfiles en Internet que me describen profesionalemente son : 
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+* BloG en Wordpress en el que escrbo mis reflexiones
 
-I'll meet you over there, can't wait to get started!
+http://albertomozo.wordpress.org 
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+* Esquema de trabajo realizado en Notion ( http://www.notio.io ) , que me permite gestionar todas las documentaciones y cursos que voy creADO Y GENRANDO
+
+https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d
+
+* Perfil de Linked
+
+https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/
