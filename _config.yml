@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    Europe/Madrid
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 # baseurl:     "/github-slideshow"
@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       Presentación 
+author:     Alberto Mozo
+description: Una breve semblanza de mi perfil .
 
 sass:
   style:     :compressed
