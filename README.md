@@ -11,15 +11,24 @@ Por ejemplo
 ![issue tab](https://albertomozo.github.io/images/admin_01.PNG)
 
 Los pérfiles en Internet que me describen profesionalemente son : 
+* Pagina web de proyecto (PHP MySql)
 
-* BloG en Wordpress en el que escrbo mis reflexiones
+         http://albertomozo.infinityfreeapp.com
 
-http://albertomozo.wordpress.org 
+* Blog en Wordpress en el que escrbo mis reflexiones
 
-* Esquema de trabajo realizado en Notion ( http://www.notio.io ) , que me permite gestionar todas las documentaciones y cursos que voy creADO Y GENRANDO
+        http://albertomozo.wordpress.org 
 
-https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d
+* Esquema de trabajo realizado en Notion ( http://www.notio.io ) , que me permite gestionar todas las documentaciones y cursos que voy creado.
 
-* Perfil de Linked
+        https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d
 
-https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/
+* Perfil de Linked (Mi curriculum más actualizado)
+
+        https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/
+        
+ Como siempre me falta mi portfolio, en HTMl y en un dominio propio, pero siempre voy un paso por detrás a la hora de terminar esta tarea.
+ 
+ 
+        
+
