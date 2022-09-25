@@ -1,4 +1,4 @@
-# Alberto Mozo GIthub Webpage
+# Alberto Mozo Github Webpage
 
 Esta es mi página de Github.
 
